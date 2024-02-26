@@ -1,0 +1,14 @@
+payload:
+# steamrule
+#steam的分流规则 除了社区和商城其他都走直连
+
+
+  - DOMAIN,api.steampowered.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,cloudflare.steamstatic.com
+  - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN,dl.steam.clngaa.com
+  - DOMAIN,test.steampowered.com
+  - DOMAIN,st.dl.eccdnx.com
+  - DOMAIN,steamcommunity-a.akamaihd.net
